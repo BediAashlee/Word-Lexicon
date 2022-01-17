@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  A Vocabulary Builder PWA App with upport of over 12 Languages that allows users to toggle between Dark and Light Mode.
+  A Vocabulary Builder PWA App with support of over 12 Languages that allows users to toggle between Dark and Light Mode.
 </td>
 </tr>
 </table>
@@ -12,7 +12,7 @@
 
 ## Demo
 
-#### Here is a working live demo : [Word Lexicon](https://mern-notehorizon.herokuapp.com/)
+#### Here is a working live demo : [Word Lexicon](https://word-lexicon.netlify.app/)
 
 ## Built with 
 
